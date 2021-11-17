@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # 06-iOS-Bank-Project-Manager
-=======
-# 은행창구 매니저 프로젝트
+
+## 은행창구 매니저 프로젝트
 
 <br>
 
@@ -117,4 +117,3 @@
 - [[WWDC 2019] -  Architecting Your App for Multiple Windows](https://developer.apple.com/videos/play/wwdc2019/258/)
 #### 코드 시간
 - [[GitHub] Swift 코드 실행시간 측정](https://gist.github.com/betterhee/fdbec1ebb3e3cf053766aaf4b355d596)
->>>>>>> aa/main
